@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "aerobic-forge-140010",
+  "private_key_id": "347780297f580f4b7092d44a4688a72c88b7b77f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC06MB3pUIuNBc8\nqvgVW5PENq+wWBMf1D0Ljx9OvpT7KGVeS98TXR64jlWcN6XcpJAqlgq1o+Pdax58\ntW/uSLxILnmOjq2zcGoyRb6X5XV3xgcYnXr3cGFAupDe4ErryoKyTJealrI4pASm\n+OYM2xQ5TwCXC/Ipf+1qsfV76jlzT93x0h98ZxMc3yK54uGnwh/5jlJuhyNRzPwT\nEx7OK6zzeY1ROtH0+1iP806KynCu1susWhvN4vTkbCowA28uv9iqNMm3AyG5ctRM\nU2j2WtYGp6jX6pUFRwBSO300imPsAb20Gwg8oPAMo/DuWvVMeubGasjxiULb7r0d\n++ziWvY9AgMBAAECggEAB7Gnb986KZNjEpw12Viv9+YYgkA4rf+digaP/w4ZcXYW\nG5TP+7eX5SL+jpqKRhBEpl8DvRZnjETwQr8Hr+NtiIdbeZ3lUs6a4aD4OmcSoCGu\nrxQRhQEFTdaxbx0saotOFC2wO+2hTknhfcVzqUPPACH1RTdHmQ69Bu7jIR5Ey7vd\nLFMywHgCpUC82ZWENW2VN02zO92yUj5AZOCYlQFlcPbiONLmcibIFW9FkcDTyQpc\nYD/e9ll89agaRnrlftgWqdjLatMzT/Hx1fjPGlcR2CtTnqaXPoV8lPrQnvXxYH9F\n9oUinr+UQBawMYgC0EV4rgKCY+kqPGAt4mC6m0hz2QKBgQDvhPkAGVhvLOFN1UhL\n+Z33UbAVIIFKaGmEOkBwXWnYa4NM1ehHlof3F4+ZbOdow4wfIOc2noi8vk/GA0Jm\njsmmOiqODL5AIIEFPLXj/0rB+DDDggq0dGEBnL+GwenIRVbu8ORTVhOhlvR1vDVN\nwQlCIlQktQnrXoqaovscYtXlZQKBgQDBW2LW/w7QRnncfJmAZlvxSFUKNXuxSQpR\nd1QY55AffasO42tn/ZPN1GMn8id/ypSv7tPMEUzTxR1uSxf4DCBmYgmFG83KDF9V\nU2KMACmp59O/11AxSf6T00ZoIPg+qWLHzRnmWQsuwdUFSlR29GvuHsFk2K2G+Irk\no65Qgi2L+QKBgQDoxdbjtL4QFZLEfJGtXGKbd6Tjc1qTQJPDMIVtbisua5YH9x6t\na+qpRRmGZqMiWmBz5BswJrQGkgGfE43Vc9EfHgo7UMEYOz6II281q+YwSg7CAkB7\nDVs1IOu1gAC+ZDzPLAcJwm6DrNvZC9bVwNNJlWkm31ZLiu6yx8+4z4jGTQKBgFop\now1eIio8stZ9w5Z8JKN+dykrh2JEDOuwGScD09DbaMiog40aUbHJN/OIl6KfdHYV\nh+3Ao3Kcl/y2R5cDEJitXoMTVALDgjDnkSx3ZvYzhCoQ3PQe7PdBrbMgrKGLmuRQ\nX6NqIizLdenhn0FY+HsxHD1KTKCDhUDYkpA4I8UBAoGAHQb9smhnjXBXQ6zb1NQ/\napmLDTantQg1fh4730AOv8Kum4NRB2HVc/oPMk+oqJ6cjqbj72d+bUmx5kMhgeVt\nQpdmPTucPMcqZIRU25vaBoSZDiwQOcI7k3eRAtykOQ9m/5lvi45nwqCADsVXsv9l\n7ZD6b2cWOfENIITWXGx8m3Y=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dsadas@aerobic-forge-140010.iam.gserviceaccount.com",
+  "client_id": "116927233304529028350",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dsadas%40aerobic-forge-140010.iam.gserviceaccount.com"
+}

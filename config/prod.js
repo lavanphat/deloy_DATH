@@ -1,0 +1,12 @@
+module.exports = {
+  DATABASE: process.env.DATABASE,
+  JWT_SECRET: process.env.JWT_SECRET,
+  SENDGRIB_KEY: process.env.SENDGRIB_KEY,
+  JWT_TIME: process.env.JWT_TIME,
+  DOMAIN: process.env.DOMAIN,
+  HOST_SEND_MAIL: process.env.HOST_SEND_MAIL,
+  GOOGLE_CLIENT_ID: process.env.GOOGLE_CLIENT_ID,
+  GOOGLE_CILENT_SECRET: process.env.GOOGLE_CILENT_SECRET,
+  FACEBOOK_CLIENT_ID: process.env.FACEBOOK_CLIENT_ID,
+  FACEBOOK_CILENT_SECRET: process.env.FACEBOOK_CILENT_SECRET,
+};
