@@ -63,5 +63,6 @@ app.get('*', (req, res, next) => {
 
 app.use(handleError);
 
+console.log(process.env.PORT);
 const port = process.env.PORT || 5000;
 app.listen(port, () => console.log(`Example app listening on port ${port}!`));
