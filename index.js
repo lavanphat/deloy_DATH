@@ -38,7 +38,6 @@ app.use(mongoSanitize());
 app.use(xss());
 // ngăn chặn người dùng nhập dạng html
 app.use(hpp());
-//Kết nối React
 
 //ROUTER
 app.use('/api/course', require('./Router/course'));
@@ -52,6 +51,7 @@ app.use('/api/payment', require('./Router/payment'));
 app.use('/api/coupon', require('./Router/coupon'));
 app.use(express.static(path.join(__dirname, 'build')));
 
+//Kết nối React
 app.get('/*', (req, res) => {
   res.sendFile(path.join(__dirname, 'build', 'index.html'));
 });

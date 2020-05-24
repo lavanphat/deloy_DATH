@@ -1,10 +1,10 @@
 var serviceWorkerOption = {
   "assets": [
-    "/d4363adf77d123661ff8d936709d95fd.png",
-    "/f85ed116ee572d891840f6d83ecf9e36.png",
     "/04eb8fc57f27498e5ae37523e3bfb2c7.woff",
     "/17629a5dfe0d3c3946cf401e1895f091.ttf",
     "/2feb69ccb596730c72920c6ba3e37ef8.eot",
+    "/d4363adf77d123661ff8d936709d95fd.png",
+    "/f85ed116ee572d891840f6d83ecf9e36.png",
     "/bundle.js",
     "/vendor.js",
     "/index.html"
