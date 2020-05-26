@@ -1,6 +1,7 @@
 const mongoose = require('mongoose');
 const { DATABASE } = require('../config/key');
 
+console.log('DATABASE',DATABASE);
 exports = mongoose.connect(
   DATABASE,
   {
