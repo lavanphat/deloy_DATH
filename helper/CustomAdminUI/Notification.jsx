@@ -11,7 +11,6 @@ import {
   useNotice,
 } from 'admin-bro';
 import React from 'react';
-import { checkRequied } from '../../client/src/commons/FormHelper/validate';
 
 const Notification = (props) => {
   const {} = props;
@@ -103,6 +102,8 @@ function sendNotification(form, sendNotice) {
       sendNotice({ message: 'Send error', type: 'error' });
     });
 }
+
+const checkRequied = (value) => (value ? undefined : 'Bạn không được bỏ trống');
 
 function validation(form, setErr) {
   const requiredFields = ['title', 'body'];
